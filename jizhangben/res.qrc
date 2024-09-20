@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pix">
+        <file>head/001.gif</file>
+        <file>head/002.png</file>
+        <file>head/abc.png</file>
+    </qresource>
+</RCC>
